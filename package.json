@@ -1,6 +1,6 @@
 {
   "name": "ravel-rethinkdb-provider",
-  "version": "0.17.0",
+  "version": "0.17.1",
   "author": "Michael Laccetti <michael@laccetti.com>",
   "description": "RethinkDB Provider for Ravel Rapid Application Development Framework",
   "contributors": [
