@@ -7,7 +7,8 @@
 *app.js*
 ```javascript
 const app = new require('ravel')();
-require('ravel-rethinkdb-provider')(app);
+const RethinkDBProvider = require('ravel-rethinkdb-provider')(app);
+new RethinkDBProvider(app);
 
 // ... the rest of your Ravel app
 ```
