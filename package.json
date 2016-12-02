@@ -1,6 +1,6 @@
 {
   "name": "ravel-rethinkdb-provider",
-  "version": "0.17.1",
+  "version": "0.18.0",
   "author": "Michael Laccetti <michael@laccetti.com>",
   "description": "RethinkDB Provider for Ravel Rapid Application Development Framework",
   "contributors": [
@@ -13,10 +13,10 @@
     "url" : "https://github.com/raveljs/ravel-rethinkdb-provider.git"
   },
   "dependencies": {
-    "rethinkdb": "2.3.2"
+    "rethinkdb": "2.3.3"
   },
   "peerDependencies": {
-    "ravel": "0.17.x"
+    "ravel": "0.18.x"
   },
   "devDependencies": {
     "eslint": "2.10.2",
